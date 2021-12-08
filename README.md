@@ -2,7 +2,7 @@
 Atividade 02 da disciplina de Análise de Redes, para a Unidade 01
 
 A atividade consiste em um estudo e análise do dataset de voos e aeroportos do Brasil, 
-obtido através do repositório: 
+obtido através do repositório: https://github.com/alvarofpp/dataset-flights-brazil
 
 São quatro requisitos (à escolha do estudante) a serem analisados:
 - Estudo sobre a Assortatividade da Rede, considerando como atributo a região do aeroporto.
